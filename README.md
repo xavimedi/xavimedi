@@ -1,4 +1,4 @@
-<h1 align="center">Howdy 🤠, I'm Xavier</h1>
+<h1 align="center">Howdy 🤠 I'm Xavier</h1>
 <h3 align="center">A passionate Full Stack developer from Texas</h3>
 
 - 🔭 I’m currently working on [Codeup's Coffee Project](https://github.com/Medina-OSullivan-Coffee-Project)
