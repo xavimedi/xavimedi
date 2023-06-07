@@ -1,7 +1,7 @@
 <h1 align="center">Howdy 🤠 I'm Xavier</h1>
 <h3 align="center">A passionate Full Stack developer from Texas</h3>
 
-- 🌱 I’m currently learning **jQuery and Apex**
+- 🌱 I’m currently learning **RESTful API Requests**
 
 - ⚡ Fun fact **I like to skydive**
 
