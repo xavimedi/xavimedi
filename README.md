@@ -7,7 +7,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/xaviergmedina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xaviergmedina" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@xavier_g_medina3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@xavier_g_medina3" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/xavier_g_medina3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@xavier_g_medina3" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/xaviergmedina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xaviergmedina" height="30" width="40" /></a>
 </p>
 
