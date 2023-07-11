@@ -1,7 +1,7 @@
 <h1 align="center">Howdy 🤠 I'm Xavier</h1>
 <h3 align="center">An obsessed Full Stack developer from Texas</h3>
 
-<h4 align="center">🌱 I’m currently learning Java ☕️
+<h4 align="center">🌱 I’m currently learning MySql ☕️
 <h4 align="center">🤼‍♂️ ask me about my favorite UFC fighters 🥋
  
 <h3 align="center">Connect with me:</h3>
